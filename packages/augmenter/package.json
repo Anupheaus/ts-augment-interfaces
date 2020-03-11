@@ -1,0 +1,12 @@
+{
+  "name": "ts-augment-interfaces-augmenter",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": "webpack --mode development"
+  },
+  "dependencies": {
+    "ts-augment-interfaces-base": "^0.1.0"
+  },
+  "devDependencies": {}
+}

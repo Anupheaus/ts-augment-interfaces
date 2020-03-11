@@ -1,0 +1,11 @@
+{
+  "name": "ts-augment-interfaces-user",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {},
+  "dependencies": {
+    "ts-augment-interfaces-base": "^0.1.0",
+    "ts-augment-interfaces-augmenter": "^0.1.0"
+  },
+  "devDependencies": {}
+}
